@@ -21,6 +21,7 @@ class RegexReservedValidator < ActiveModel::EachValidator
   end
 
   def reserved?(value)
-    RESERVED_WORDS.include?(value.downcase)
+    add_reserved_words = @options[:add_reserved_words] || []
+    (RESERVED_WORDS + add_reserved_words).include?(value.downcase)
   end
 end
