@@ -25,7 +25,7 @@ Or install it yourself as:
 Set the validation to your ActiveModel:
 
 ```ruby
-class User < ActiveRecord
+class User < ActiveRecord::Base
   validates :username, regex_reserved: true
 end
 ```
@@ -33,7 +33,7 @@ end
 If you want to add reserved words:
 
 ```ruby
-class User < ActiveRecord
+class User < ActiveRecord::Base
   validates :username, regex_reserved: {
     add_reserved_words: %w[tweet retweet]
   }
