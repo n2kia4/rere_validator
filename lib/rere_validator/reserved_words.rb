@@ -44,6 +44,7 @@ RESERVED_WORDS = %w[
   case
   categories
   category
+  cgi
   chat
   client
   clitoris
@@ -80,6 +81,7 @@ RESERVED_WORDS = %w[
   die
   dildo
   dir
+  doc
   documentation
   domain
   download
@@ -97,6 +99,7 @@ RESERVED_WORDS = %w[
   event
   example
   exit
+  explore
   faq
   favorite
   favorites
@@ -110,6 +113,7 @@ RESERVED_WORDS = %w[
   fellatio
   file
   files
+  first
   flash
   follow
   form
@@ -152,6 +156,7 @@ RESERVED_WORDS = %w[
   index
   info
   information
+  inquiry
   introduction
   invite
   ipad
@@ -164,7 +169,10 @@ RESERVED_WORDS = %w[
   job
   jobs
   js
+  json
   language
+  last
+  legal
   license
   link
   links
@@ -183,10 +191,12 @@ RESERVED_WORDS = %w[
   logs
   mail
   manager
+  manual
   marketing
   master
   me
   media
+  member
   message
   messages
   messenger
@@ -221,6 +231,7 @@ RESERVED_WORDS = %w[
   operator
   or
   order
+  organization
   owner
   page
   pages
@@ -232,12 +243,18 @@ RESERVED_WORDS = %w[
   photo
   photos
   picture
+  plan
   plugin
   policies
   policy
   poop
+  popular
+  portal
   post
+  pr
   premium
+  press
+  price
   privacy
   private
   product
@@ -247,6 +264,7 @@ RESERVED_WORDS = %w[
   projects
   pub
   public
+  purpose
   pussy
   put
   random
@@ -254,12 +272,14 @@ RESERVED_WORDS = %w[
   readme
   register
   registration
+  release
   remove
   request
   reserved
   return
   returns
   root
+  rss
   rule
   rules
   sale
@@ -303,7 +323,9 @@ RESERVED_WORDS = %w[
   site-map
   site_map
   smtp
+  source
   sql
+  src
   ssh
   ssl
   staff
@@ -312,8 +334,14 @@ RESERVED_WORDS = %w[
   status
   store
   stores
+  style
+  stylesheet
+  style.sheet
+  style-sheet
+  style_sheet
   support
   survey
+  swf
   sys
   system
   tablet
