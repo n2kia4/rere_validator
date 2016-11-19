@@ -2,7 +2,7 @@
 
 Custom validator for ActiveModel.
 
-Provides regex and reserved words to username.
+Provide regex and reserved words validation for username.
 
 ## Installation
 

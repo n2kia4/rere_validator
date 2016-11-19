@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Natsuki Tanaka"]
   spec.email         = ["natsukia3@gmail.com"]
 
-  spec.summary       = %q{Provides regex and reserved words to username.}
-  spec.description   = %q{Provides regex and reserved words to username.}
+  spec.summary       = %q{Provide regex and reserved words validation for username.}
+  spec.description   = %q{Provide regex and reserved words validation for username.}
   spec.homepage      = "https://github.com/natsukia3/rere_validator"
   spec.license       = "MIT"
 
