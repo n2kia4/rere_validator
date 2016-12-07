@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Provide regex and reserved words validation for username.}
   spec.description   = %q{Provide regex and reserved words validation for username.}
-  spec.homepage      = "https://github.com/natsukia3/rere_validator"
+  spec.homepage      = "https://github.com/n2kia4/rere_validator"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
