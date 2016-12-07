@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "rere_validator"
   spec.version       = RereValidator::VERSION
   spec.authors       = ["Natsuki Tanaka"]
-  spec.email         = ["natsukia3@gmail.com"]
+  spec.email         = ["n2kia4@gmail.com"]
 
   spec.summary       = %q{Provide regex and reserved words validation for username.}
   spec.description   = %q{Provide regex and reserved words validation for username.}
